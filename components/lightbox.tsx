@@ -98,7 +98,7 @@ export default function Lightbox({ items, currentIndex, onClose, onNavigate }: L
               priority
             />
             <span className="absolute bottom-4 left-4 rounded-lg bg-dental-deep/80 px-3 py-1.5 text-sm font-medium text-white">
-              Before
+              
             </span>
           </div>
           <div className="relative aspect-square overflow-hidden rounded-xl">
@@ -111,7 +111,7 @@ export default function Lightbox({ items, currentIndex, onClose, onNavigate }: L
               priority
             />
             <span className="absolute bottom-4 left-4 rounded-lg bg-dental-secondary/90 px-3 py-1.5 text-sm font-medium text-white">
-              After
+              
             </span>
           </div>
         </div>
