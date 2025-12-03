@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Grace Muthoni",
+    "location": "Juja",
+    "rating": 5,
+    "text": "Dr. Ken transformed my smile with veneers. The results exceeded my expectations, and his team made me feel comfortable throughout the process.",
+    "service": "Dental Veneers",
+    "image": "/testimonial-grace-muthoni.jpg"
+  },
+  {
+    "id": "2",
+    "name": "James Ochieng",
+    "location": "Thika",
+    "rating": 5,
+    "text": "I was nervous about getting implants, but the procedure was painless. My new teeth look completely natural. Highly recommend Best Dental.",
+    "service": "Dental Implants",
+    "image": "/testimonial-james-ochieng.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Sarah Njeri",
+    "location": "Ruiru",
+    "rating": 5,
+    "text": "The teeth whitening treatment gave me amazing results in just one session. Professional service and a beautiful, modern clinic.",
+    "service": "Teeth Whitening",
+    "image": "/testimonial-sarah-njeri.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Peter Kamau",
+    "location": "Juja",
+    "rating": 5,
+    "text": "My daughter's braces journey was handled with such care. The team explained everything clearly and the results are perfect.",
+    "service": "Braces & Orthodontics",
+    "image": "/testimonial-peter-kamau.jpg"
+  }
+]

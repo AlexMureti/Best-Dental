@@ -1,0 +1,62 @@
+[
+  {
+    "id": "teeth-whitening",
+    "title": "Teeth Whitening",
+    "shortDescription": "Professional whitening for a brighter, confident smile.",
+    "fullDescription": "Our professional teeth whitening treatments use advanced techniques to safely remove years of staining, giving you a noticeably brighter smile in just one visit. We use premium whitening gels and LED acceleration technology to deliver results up to 8 shades whiter.",
+    "icon": "sparkles",
+    "image": "/services-teeth-whitening.jpg",
+    "duration": "60-90 minutes",
+    "price": "From KSh 8,000"
+  },
+  {
+    "id": "dental-implants",
+    "title": "Dental Implants",
+    "shortDescription": "Permanent tooth replacement that looks and feels natural.",
+    "fullDescription": "Dental implants provide a permanent solution for missing teeth. Our titanium implants fuse with your jawbone, creating a stable foundation for custom-made crowns that match your natural teeth perfectly.",
+    "icon": "implant",
+    "image": "/services-dental-implants.jpg",
+    "duration": "Multiple visits",
+    "price": "From KSh 80,000"
+  },
+  {
+    "id": "braces",
+    "title": "Braces & Orthodontics",
+    "shortDescription": "Straighten your teeth for a perfect, aligned smile.",
+    "fullDescription": "We offer traditional braces and modern clear aligners to correct misaligned teeth. Our orthodontic treatments are customized for children, teens, and adults, ensuring comfortable and effective results.",
+    "icon": "braces",
+    "image": "/services-braces.jpg",
+    "duration": "12-24 months",
+    "price": "From KSh 45,000"
+  },
+  {
+    "id": "veneers",
+    "title": "Dental Veneers",
+    "shortDescription": "Custom porcelain shells for a flawless smile transformation.",
+    "fullDescription": "Porcelain veneers are thin, custom-made shells that cover the front surface of teeth, correcting chips, stains, and gaps for a picture-perfect smile. Our veneers are crafted with precision for a natural, luminous appearance.",
+    "icon": "veneer",
+    "image": "/services-veneers.jpg",
+    "duration": "2-3 visits",
+    "price": "From KSh 25,000 per tooth"
+  },
+  {
+    "id": "root-canal",
+    "title": "Root Canal Treatment",
+    "shortDescription": "Pain-free treatment to save infected teeth.",
+    "fullDescription": "Our gentle root canal therapy removes infected pulp tissue, relieves pain, and saves your natural tooth. Modern techniques and advanced anesthesia ensure a comfortable, anxiety-free experience.",
+    "icon": "tooth",
+    "image": "/services-root-canal.jpg",
+    "duration": "1-2 visits",
+    "price": "From KSh 12,000"
+  },
+  {
+    "id": "smile-makeover",
+    "title": "Smile Makeover",
+    "shortDescription": "Complete smile transformation tailored to you.",
+    "fullDescription": "A smile makeover combines multiple cosmetic procedures to achieve your ideal smile. We create a personalized treatment plan including whitening, veneers, and contouring based on your unique goals.",
+    "icon": "smile",
+    "image": "/services-smile-makeover.jpg",
+    "duration": "Varies",
+    "price": "Custom quote"
+  }
+]
